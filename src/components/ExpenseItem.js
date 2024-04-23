@@ -32,6 +32,8 @@ function ExpenseItem(){
         <div className="expense-item__price">${expenseamount}</div>
       </div>
     </div>
+
+    
    </>
    )
    
